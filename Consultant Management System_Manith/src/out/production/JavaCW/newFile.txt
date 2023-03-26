@@ -1,0 +1,10 @@
+Doctor name    : manith
+Doctor Surname: paranawithana
+Specialization : doc
+licenceNum     :5546
+ 
+Doctor name    : kasun
+Doctor Surname: malma
+Specialization : doct
+licenceNum     :45
+ 

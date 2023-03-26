@@ -1,0 +1,20 @@
+Doctor name    : kariya
+Doctor Surname: asa
+Specialization : yuitr
+licenceNum     :7890
+ 
+Doctor name    : kukula
+Doctor Surname: baba
+Specialization : yrvcbnm
+licenceNum     :24521
+ 
+Doctor name    : paka
+Doctor Surname: caba
+Specialization : yui
+licenceNum     :78
+ 
+Doctor name    : manith
+Doctor Surname: parana
+Specialization : den
+licenceNum     :12
+ 
